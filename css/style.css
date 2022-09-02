@@ -128,8 +128,17 @@ a:hover{
   
 }
 
+#inpNombre{
+    background-color: rgba(17, 193, 202, 0.87);
+}
+
+#inpCorreo{
+    background-color: rgba(17, 193, 202, 0.87);
+}
+
 
 #inpMensaje{
+    background-color: rgba(17, 193, 202, 0.87);
     margin-top: 5px;
     width: 169px;
     height: 30px;
